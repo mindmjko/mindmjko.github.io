@@ -1,7 +1,5 @@
 # MIND Lab website
 
-Published website: https://mindmjko.github.io/
+Public deployment files for https://mindmjko.github.io/.
 
-This repository contains generated deployment files only. Original source and development history are maintained privately.
-
-Copyright © 2026 MIND Lab. All rights reserved.
+The editable source and its history are maintained in a separate private repository.

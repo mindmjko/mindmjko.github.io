@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[3273,[],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"section-page-header","children":[["$","h1",null,{"children":"News"}],["$","div",null,{"className":"section-page-rule","aria-hidden":"true"}]]}],false,["$","section",null,{"className":"section news-update-note","aria-label":"News updates","children":["$","p",null,{"children":"Laboratory news and announcements will be added as they become available. Please check back for updates."}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lQvEK2tXHD8Z5p3ReRLwy"}
+0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"section-page-header","children":[["$","h1",null,{"children":"News"}],["$","div",null,{"className":"section-page-rule","aria-hidden":"true"}]]}],false,["$","section",null,{"className":"section news-update-note","aria-label":"News updates","children":["$","p",null,{"children":"Laboratory news and announcements will be added as they become available. Please check back for updates."}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rePm0eJOvlhZT84jLJ8AN"}
 4:null
